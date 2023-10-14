@@ -1,8 +1,16 @@
-# React + Vite
+# SPACE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A website that generates varieties of movies using the Movie Database API This website is designed completely with Tailwind CSS and built with React.
 
-Currently, two official plugins are available:
+## Live Link
+https://chillwithjosh.github.io/Netflix-clone/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Languages and Frameworks
+* HTML
+* Javascript
+* React
+* Tailwind CSS
+
+## Support and contact details
+In case you run into any issues, kindly contact me on this email: olabiyijoshua15@gmail.com
