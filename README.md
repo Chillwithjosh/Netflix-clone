@@ -1,4 +1,4 @@
-# SPACE
+# Netflix Clone
 
 ## Description
 A website that generates varieties of movies using the Movie Database API This website is designed completely with Tailwind CSS and built with React.
